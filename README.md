@@ -5,14 +5,14 @@ Whether you want to explore new games or find information about your favorite ti
 
 # 🔧 Features:
 
-# Register
+# 1. 📝 Register
 
 Register a new account to access the page (a default account was already created, so you don't have to; more information will be provided in the login section).
 Use JSON Server Auth to register your account into the database (please note that this is a mock database for front-end purposes, and its functionalities are limited and insecure).
 
 ![register](https://github.com/amililime/Befeda/assets/119703007/a6705699-df5b-4a7a-902c-e6158401af81)
 
-# Login
+# 2. 🔑 Login
 
 Use JSON Server Auth to log into your new account.
 Use of session token for auth created accounts.
@@ -20,21 +20,21 @@ Default account created using the email: exampleemail@gmail.com and the password
 
 ![login](https://github.com/amililime/Befeda/assets/119703007/7e45e95b-02e3-48c0-9e8c-a0e97a38d7be)
 
-# Search
+# 3. 🔎 Search
 
 Search for any game you want on the page.
 Get a fast response with a list of games under the keyword that you search using the RAWG API.
 
 ![search](https://github.com/amililime/Befeda/assets/119703007/b1316413-bfbd-46b2-9f44-3a41759c9754)
 
-# Last Searches 
+# 4. ⏱️  Last Searches 
 
 Use of Local Storage to store latest searches made.
 Get a list of the previous searches and click on any of them to return to the search.
 
 ![last_searches](https://github.com/amililime/Befeda/assets/119703007/b1632595-402d-4f5b-b329-7712a858a2c3)
 
-# Device friendly 
+# 5. 📱 Device friendly 
 
 Responsive design: You can use Game Finder on any of your devices!
 
@@ -44,7 +44,7 @@ Responsive design: You can use Game Finder on any of your devices!
 
 ![mobile_menu](https://github.com/amililime/Befeda/assets/119703007/bebe1a41-024a-4151-8e3a-f77441c4bd3e)
 
-# Dark/Light Mode Support
+# 6. 🌓  Dark/Light Mode Support
 
 Use GameFinder in the theme that you prefer.
 
